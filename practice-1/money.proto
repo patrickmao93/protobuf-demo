@@ -1,3 +1,5 @@
+syntax = "proto3";
+
 message money {
   int32 currencyCode = 1;
   int64 integralAmount = 2;
