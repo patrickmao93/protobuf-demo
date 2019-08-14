@@ -1,0 +1,4 @@
+message coordinate{
+  float latitude = 1;
+  float longitude = 2;
+}

@@ -1,0 +1,5 @@
+message Person {
+  string firstName = 1;
+  repeated string listOfMiddleNames = 2;
+  string lastName = 3;
+}
